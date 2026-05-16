@@ -24,7 +24,7 @@ Displays:
 - Moderate score
 - Strong score
 
-using live progress bars.
+using progress bars.
 
 ### 💡 Suggestions
 Provides security improvement suggestions such as:
